@@ -45,11 +45,14 @@ Proyek web sederhana ini dibuat untuk menganalisis data transaksi (KartuPesanan 
 Jika Anda mengklik **Edit**, data apa yang akan diubah?  
 Anda tidak bisa mengedit **total biaya** untuk bulan tertentu secara langsung.  
 Untuk mengubahnya, Anda harus mengedit **transaksi asli** yang membentuk total biaya tersebut.
+
 ---
 ### Q3 - Total Biaya per Jenis Produk
 Sama seperti Q2, Anda tidak bisa mengedit total biaya untuk **Jenis Produk** secara keseluruhan.  
 Perubahan hanya bisa dilakukan pada **data transaksi** yang menjadi dasar perhitungan.
+
 ---
+
 ### Q5 - Statistik Biaya
 Q5 menampilkan perhitungan berupa:  
 - **Rata-rata**  
