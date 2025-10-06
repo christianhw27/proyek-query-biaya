@@ -1,4 +1,4 @@
-# [QUERY BIAYA]
+# QUERY BIAYA
 
 ### Analisis Data Biaya (PHP PDO & Bootstrap)
 
