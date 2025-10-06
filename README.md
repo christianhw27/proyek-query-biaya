@@ -16,11 +16,6 @@ Proyek web sederhana ini dibuat untuk menganalisis data transaksi (KartuPesanan 
 
 ## 📸 SCREENSHOT
 
-### 1. Tampilan Utama
-> **[TEMPATKAN SCREENSHOT TAMPILAN.PHP DI SINI]**
-
-### 2. Tampilan Detail Baris
-> **[TEMPATKAN SCREENSHOT DETAIL.PHP DI SINI]**
 
 ---
 
