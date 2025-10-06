@@ -15,7 +15,7 @@ Proyek web sederhana ini dibuat untuk menganalisis data transaksi (KartuPesanan 
 ---
 
 ## 📸 SCREENSHOT
-proyek-query-biaya/pic/Screenshot 2025-10-06 151657.png
+(pic/Screenshot 2025-10-06 151657.png)
 
 ---
 
