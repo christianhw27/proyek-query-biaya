@@ -14,11 +14,12 @@ Proyek web sederhana ini dibuat untuk menganalisis data transaksi (KartuPesanan 
 
 ---
 
-## 📸 SCREENSHOT TAMPILAN UTAMA
+## 📸 SCREENSHOT
 ![Alt Text](pic/Struktur.png)
 ![Alt Text](pic/1.png)
 ![Alt Text](pic/2.png)
 ![Alt Text](pic/3.png)
+![Alt Text](pic/4.png)
 
 ---
 ## ❓ Mengapa Q2, Q3, dan Q5 TIDAK Boleh Memiliki Tombol Edit/Delete?
