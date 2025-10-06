@@ -13,11 +13,13 @@ Proyek web sederhana ini dibuat untuk menganalisis data transaksi (KartuPesanan 
 -   **Aksi Dinamis:** Tombol **Detail** (universal) dan **Edit/Delete** (hanya aktif pada data transaksional).
 
 ---
+
 ## 📸 SCREENSHOT TAMPILAN UTAMA
 ![Alt Text](pic/Struktur.png)
 ![Alt Text](pic/1.png)
 ![Alt Text](pic/2.png)
 ![Alt Text](pic/3.png)
+
 ---
 
 ## ⚙️ CARA JALANIN (XAMPP)
@@ -36,3 +38,25 @@ Proyek web sederhana ini dibuat untuk menganalisis data transaksi (KartuPesanan 
 | **Backend** | PHP (PDO) |
 | **Database** | MySQL/MariaDB |
 | **Frontend** | Bootstrap 5 |
+
+---
+## ❓ Mengapa Q2, Q3, dan Q5 TIDAK Boleh Memiliki Tombol Edit/Delete?
+### Q2 - Total Biaya per Bulan
+Jika Anda mengklik **Edit**, data apa yang akan diubah?  
+Anda tidak bisa mengedit **total biaya** untuk bulan tertentu secara langsung.  
+Untuk mengubahnya, Anda harus mengedit **transaksi asli** yang membentuk total biaya tersebut.
+---
+### Q3 - Total Biaya per Jenis Produk
+Sama seperti Q2, Anda tidak bisa mengedit total biaya untuk **Jenis Produk** secara keseluruhan.  
+Perubahan hanya bisa dilakukan pada **data transaksi** yang menjadi dasar perhitungan.
+---
+### Q5 - Statistik Biaya
+Q5 menampilkan perhitungan berupa:  
+- **Rata-rata**  
+- **Minimum**  
+- **Maksimum**  
+
+Karena ini murni hasil **perhitungan otomatis**, maka data ini **tidak dapat diedit** secara manual.
+
+---
+
