@@ -21,25 +21,6 @@ Proyek web sederhana ini dibuat untuk menganalisis data transaksi (KartuPesanan 
 ![Alt Text](pic/3.png)
 
 ---
-
-## ⚙️ CARA JALANIN (XAMPP)
-
-1.  **Clone Repo:** Tarik proyek ini ke folder `htdocs` Anda.
-2.  **Setup DB:** Buat database, lalu buat tabel `KartuPesanan` dan `RincianBiaya` di phpMyAdmin (pastikan sudah ada datanya).
-3.  **Cek Koneksi:** Pastikan `koneksi.php` sudah disesuaikan dengan nama database dan kredensial XAMPP Anda.
-4.  **Akses:** Buka `http://localhost/[FOLDER_ANDA]/tampilan.php`
-
----
-
-## 🛠️ STACK
-
-| | Teknologi |
-| :--- | :--- |
-| **Backend** | PHP (PDO) |
-| **Database** | MySQL/MariaDB |
-| **Frontend** | Bootstrap 5 |
-
----
 ## ❓ Mengapa Q2, Q3, dan Q5 TIDAK Boleh Memiliki Tombol Edit/Delete?
 ### Q2 - Total Biaya per Bulan
 Jika Anda mengklik **Edit**, data apa yang akan diubah?  
@@ -63,3 +44,19 @@ Karena ini murni hasil **perhitungan otomatis**, maka data ini **tidak dapat die
 
 ---
 
+## ⚙️ CARA JALANIN (XAMPP)
+
+1.  **Clone Repo:** Tarik proyek ini ke folder `htdocs` Anda.
+2.  **Setup DB:** Buat database, lalu buat tabel `KartuPesanan` dan `RincianBiaya` di phpMyAdmin (pastikan sudah ada datanya).
+3.  **Cek Koneksi:** Pastikan `koneksi.php` sudah disesuaikan dengan nama database dan kredensial XAMPP Anda.
+4.  **Akses:** Buka `http://localhost/[FOLDER_ANDA]/tampilan.php`
+
+---
+
+## 🛠️ STACK
+
+| | Teknologi |
+| :--- | :--- |
+| **Backend** | PHP (PDO) |
+| **Database** | MySQL/MariaDB |
+| **Frontend** | Bootstrap 5 |
