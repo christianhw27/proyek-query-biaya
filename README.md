@@ -44,6 +44,8 @@ Q5 menampilkan perhitungan berupa:
 Karena ini murni hasil **perhitungan otomatis**, maka data ini **tidak dapat diedit** secara manual.
 
 ---
+### JADI 
+Tombol Edit dan Delete hanya muncul pada query transaksional (Q1, Q4, Q6, Q7, Q8) karena query tersebut menyajikan data yang dapat dihubungkan kembali ke satu baris di tabel KartuPesanan menggunakan kunci unik NomorPesanan.
 
 ## ⚙️ CARA JALANIN (XAMPP)
 
