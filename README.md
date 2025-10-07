@@ -50,7 +50,7 @@ Tombol Edit dan Delete hanya muncul pada query transaksional (Q1, Q4, Q6, Q7, Q8
 ## ⚙️ CARA JALANIN (XAMPP)
 
 1.  **Clone Repo:** Tarik proyek ini ke folder `htdocs` Anda.
-2.  **Setup DB:** Buat database, lalu buat tabel `KartuPesanan` dan `RincianBiaya` di phpMyAdmin (pastikan sudah ada datanya).
+2.  **Setup DB:** Buat database, lalu buat tabel `KartuPesanan` dan `RincianBiaya` di phpMyAdmin (pastikan sudah ada datanya). Atau bisa import file .SQL yang dilampirkan di proyek ini
 3.  **Cek Koneksi:** Pastikan `koneksi.php` sudah disesuaikan dengan nama database dan kredensial XAMPP Anda.
 4.  **Akses:** Buka `http://localhost/[FOLDER_ANDA]/tampilan.php`
 
