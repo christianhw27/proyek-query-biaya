@@ -9,7 +9,7 @@ Proyek web sederhana ini dibuat untuk menganalisis data transaksi (KartuPesanan 
 ## 🚀 FITUR INTI
 
 -   **8 Query Analisis:** Menampilkan hasil agregasi biaya, kalkulasi per unit, dan filter data (Q1-Q8).
--   **Tampilan Data Awal:** Menunjukkan 5 baris pertama dari tabel utama (`KartuPesanan`, `RincianBiaya`) sebagai konteks.
+-   **Tampilan Data Awal:** Menunjukkan isi dari tabel utama (`KartuPesanan`, `RincianBiaya`) sebagai konteks.
 -   **Aksi Dinamis:** Tombol **Detail** (universal) dan **Edit/Delete** (hanya aktif pada data transaksional).
 
 ---
@@ -22,7 +22,7 @@ Proyek web sederhana ini dibuat untuk menganalisis data transaksi (KartuPesanan 
 ![Alt Text](pic/4.png)
 
 ---
-## ❓ Mengapa Q2, Q3, dan Q5 TIDAK Boleh Memiliki Tombol Edit/Delete?
+## ❓ Mengapa Q2, Q3, dan Q5 TIDAK BOLEH Memiliki Tombol Edit/Delete?
 ### Q2 - Total Biaya per Bulan
 Jika Anda mengklik **Edit**, data apa yang akan diubah?  
 Anda tidak bisa mengedit **total biaya** untuk bulan tertentu secara langsung.  
@@ -54,10 +54,4 @@ Karena ini murni hasil **perhitungan otomatis**, maka data ini **tidak dapat die
 
 ---
 
-## 🛠️ STACK
 
-| | Teknologi |
-| :--- | :--- |
-| **Backend** | PHP (PDO) |
-| **Database** | MySQL/MariaDB |
-| **Frontend** | Bootstrap 5 |
